@@ -3,7 +3,7 @@
 aimbot for csgo with python (pymem)
 
 ![CSGO](https://prod.assets.earlygamecdn.com/images/csgo-2.jpg?mtime=1678019572 "CSGO ARTWORK")
-![1](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.png "1")
+![1](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.gif "1")
 
 ## note
 
