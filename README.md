@@ -36,6 +36,8 @@ pip install math
 
 ```commandline
 
-python glow.py
+python aimbot.py
+or
+python aimbot(with glow).py
 
 ```
