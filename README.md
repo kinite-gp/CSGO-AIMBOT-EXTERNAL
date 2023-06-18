@@ -1,9 +1,19 @@
 # CSGO-GLOW-EXTERNAL
 
-glow for csgo with python (pymem)
+aimbot for csgo with python (pymem)
 
 ![CSGO](https://prod.assets.earlygamecdn.com/images/csgo-2.jpg?mtime=1678019572 "CSGO ARTWORK")
-![1](https://github.com/kinite-gp/CSGO-GLOW-EXTERNAL/blob/main/pic/1.png "1")
+![1](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.png "1")
+
+## note
+
+Be careful, this script is not going to make you immortal
+**It just helps that a higher percentage of your shots land near the right spot (the head)**.
+
+**Tried not to be identified by players**
+And as far as it has been tested online, it is not recognized
+
+It works unless you hold the **'alt'** button and shoot so it doesn't work!
 
 ## install requirement
 
@@ -11,13 +21,14 @@ glow for csgo with python (pymem)
 
 pip install pymem
 pip install keyboard
+pip install mouse
+pip install pyautogui
+pip install math
 
 ```
 
 **Warning:** the csgo.py file may be invalidated in the updates. From the dumper folder, run the dumper.exe file (while running the game) to give you a new file and select it.
 
-![2](https://github.com/kinite-gp/CSGO-GLOW-EXTERNAL/blob/main/pic/2.png "2")
-![3](https://github.com/kinite-gp/CSGO-GLOW-EXTERNAL/blob/main/pic/3.png "3")
 
 ## run
 
