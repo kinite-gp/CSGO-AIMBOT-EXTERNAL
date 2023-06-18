@@ -1,11 +1,8 @@
-# CSGO-GLOW-EXTERNAL
+# CSGO-AIMBOT-EXTERNAL
 
 aimbot for csgo with python (pymem)
 
 ![CSGO](https://prod.assets.earlygamecdn.com/images/csgo-2.jpg?mtime=1678019572 "CSGO ARTWORK")
-![1](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.gif "1")
-![gif](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.gif "gif")
-<img src="https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.gif" alt="gif" width="300" height="540">
 
 ## note
 
@@ -31,6 +28,9 @@ pip install math
 
 **Warning:** the csgo.py file may be invalidated in the updates. From the dumper folder, run the dumper.exe file (while running the game) to give you a new file and select it.
 
+## video
+
+![1](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/1.gif "1")
 
 ## run
 
