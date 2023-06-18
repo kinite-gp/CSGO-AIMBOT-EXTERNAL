@@ -6,7 +6,6 @@ from math import sqrt, pi, atan
 import math
 import time
 import mouse
-import random
 import pyautogui
 
 
