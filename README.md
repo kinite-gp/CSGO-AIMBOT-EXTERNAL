@@ -1,6 +1,6 @@
 # CSGO-AIMBOT-EXTERNAL
 
-aimbot for csgo with python (pymem)
+cheat for csgo with python (pymem)
 
 ![CSGO](https://prod.assets.earlygamecdn.com/images/csgo-2.jpg?mtime=1678019572 "CSGO ARTWORK")
 
