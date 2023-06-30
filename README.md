@@ -27,6 +27,7 @@ pip install math
 ```
 
 **Warning:** the csgo.py file may be invalidated in the updates. From the dumper folder, run the dumper.exe file (while running the game) to give you a new file and select it.
+![error](https://github.com/kinite-gp/CSGO-AIMBOT-EXTERNAL/blob/main/pic/error.png "error")
 
 ## video
 
